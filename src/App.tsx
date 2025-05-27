@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { HashRouter as Router, Routes, Route, Link, useLocation, Navigate } from 'react-router-dom';
-import { Plus, Users, FolderOpen, Clock, BarChart3, Calendar, User, Target, Play, Pause, Square, ChevronRight, Timer, CheckCircle, Mail, Phone } from 'lucide-react';
-
+import { Plus, Users, FolderOpen, Clock, BarChart3, User, Target, Play, Square, Timer } from 'lucide-react';
 // Hauptkomponente mit Hash Router
 const AccessForAllProjectApp = () => {
   return (
