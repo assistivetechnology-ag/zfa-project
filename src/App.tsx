@@ -130,7 +130,7 @@ const AppContent = () => {
       id: 2,
       name: 'Migros Online Shop Optimierung',
       kunde: 'Migros',
-      status: 'planung',
+      status: 'in_bearbeitung',
       priorität: 'mittel',
       startdatum: '2025-02-01',
       enddatum: '2025-04-15',
